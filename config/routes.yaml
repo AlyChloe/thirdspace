@@ -1,3 +1,11 @@
 index:
     path: /
     controller: App\Controller\Home::__default
+
+about:
+    path: /about
+    controller: App\Controller\About::__default
+
+contact:
+    path: /contact
+    controller: App\Controller\Contact::__default
